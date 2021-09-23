@@ -1,0 +1,992 @@
+@media (max-width: 1142px) {
+  .hadder {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    background-color: #0abde3;
+  }
+  .max-width {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 1058px) {
+  .div-a h1 {
+    color: black;
+    font-size: 30px;
+    padding: 15px 0;
+    font-weight: 600;
+  }
+  .div-a p {
+    color: black;
+    font-size: 17px;
+    padding: 5px 20px;
+
+    font-weight: 400;
+    padding-bottom: 50px;
+  }
+}
+@media (max-width: 1010px) {
+  .hadder .logo {
+    width: 25%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+  .max-width {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  .hadder .menu {
+    width: 73%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+}
+@media (max-width: 1046px) {
+  .footer {
+    background-color: black;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+  .div-f {
+    width: 40%;
+    max-width: 100%;
+    text-align: left;
+    float: left;
+  }
+  .div-i {
+    width: 60%;
+    max-width: 100%;
+    text-align: right;
+    float: right;
+  }
+}
+@media (max-width: 966px) {
+  .hadder .logo {
+    width: 22%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+  .hadder .menu {
+    width: 78%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+}
+@media (max-width: 966px) {
+  .hadder .menu {
+    width: 85%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+  .hadder .logo {
+    width: 15%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+}
+@media (max-width: 886px) {
+  .div-f h1 {
+    color: white;
+    font-size: 19px;
+    padding: 20px;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 29px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+
+    padding: 14px 23px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 28px;
+    font-weight: 600;
+    display: inline;
+    padding: 14px 20px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 854px) {
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 28px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+
+    padding: 14px 23px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+    display: inline;
+    padding: 14px 33px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 834px) {
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    display: inline;
+    padding: 14px 33px;
+    cursor: pointer;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+    margin-top: auto;
+    padding: 14px 23px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 822px) {
+  .hadder .menu {
+    width: 88%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+
+  .hadder .logo {
+    width: 12%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+  .hadder .menu ul li {
+    border-left: none;
+    border-right: 1px solid white;
+  }
+  .div-a i {
+    color: white;
+    font-size: 17px;
+    background-color: rgb(82, 129, 218);
+    border-radius: 25px 0 25px 0;
+    padding: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+  }
+  .div-a h1 {
+    color: black;
+    font-size: 26px;
+    padding: 15px 0;
+    font-weight: 600;
+  }
+  .div-a p {
+    color: black;
+    font-size: 15px;
+    padding: 5px 20px;
+
+    font-weight: 400;
+    padding-bottom: 50px;
+  }
+  .div-1 p {
+    font-size: 17px;
+    padding: 10px 10px;
+  }
+  .conten-r ul li:last-child {
+    display: none;
+  }
+  .div-i ul li i {
+    color: white;
+    font-size: 29px;
+    cursor: pointer;
+  }
+  .about {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    padding: 9px 0;
+  }
+}
+@media (max-width: 802px) {
+  .hadder .menu ul {
+    text-align: left;
+  }
+  .hadder .menu {
+    width: 89%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+  .hadder .logo {
+    width: 11%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+
+    margin-top: auto;
+    padding: 14px 23px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+  .div-a {
+    width: 46%;
+    height: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+  }
+  .div-a:last-child {
+    margin-left: 30%;
+    margin-top: 5%;
+  }
+}
+@media (max-width: 794px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 19px;
+    color: white;
+    padding: 5px 25px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .hadder .menu ul li {
+    border-left: none;
+    border-right: 1px solid white;
+  }
+  .hadder .menu ul li:nth-child(6) {
+    border-right: 1px solid white;
+  }
+  .div-1 p span {
+    display: none;
+  }
+  .conten-r ul li:nth-child(6) {
+    display: none;
+  }
+  .conten-r ul li:nth-child(7) {
+    display: none;
+  }
+}
+@media (max-width: 786px) {
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    display: inline;
+    padding: 15px 38px;
+    cursor: pointer;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 19px;
+    font-weight: 700;
+    max-width: 100%;
+    margin: auto;
+    margin-top: auto;
+    padding: 14px 23px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 746px) {
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 21px;
+    font-weight: 600;
+    display: block;
+    padding: 15px 38px;
+    cursor: pointer;
+    width: 234px;
+    margin: auto;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 23px;
+    font-weight: 700;
+    max-width: 100%;
+    margin: auto;
+    margin-top: auto;
+    padding: 15px 27px;
+    margin-top: 40px;
+    cursor: pointer;
+    display: block;
+    width: 310px;
+  }
+  .banner {
+    background-image: url(https://i.ibb.co/wgVP6Bf/hotel-cover.jpg);
+    background-repeat: no-repeat;
+    background-position: left right;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;
+  }
+}
+@media (max-width: 702px) {
+  .hadder .menu {
+    width: 89%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    padding: 5px 25px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    padding: 5px 19px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+}
+@media (max-width: 614px) {
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 19px;
+    font-weight: 700;
+    max-width: 100%;
+    margin: auto;
+    margin-top: auto;
+    padding: 15px 27px;
+    margin-top: 29px;
+    cursor: pointer;
+    display: block;
+    width: 202px;
+  }
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    padding: 16px 38px;
+    cursor: pointer;
+    width: 206px;
+    margin: auto;
+  }
+  .about p {
+    font-size: 16px;
+    padding: 10px 0;
+  }
+  .about p span {
+    display: none;
+  }
+  .about h1 {
+    font-size: 40px;
+    padding: 10px;
+  }
+  .conten-r ul li span {
+    display: none;
+  }
+  .div-1 p span {
+    display: none;
+  }
+  .conten-r h1 {
+    color: black;
+    font-size: 31px;
+    border-bottom: 1px solid #ddd;
+  }
+  .div-1 img {
+    max-width: 100%;
+    width: 271px;
+    height: auto;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 50px;
+  }
+  .div-1 p .conten-p {
+    display: none;
+  }
+  .div-1 p {
+    font-size: 17px;
+    padding: 10px 35px;
+    text-align: center;
+  }
+  .div-f h1 {
+    color: white;
+    font-size: 19px;
+  }
+  .div-i ul li {
+    display: inline-block;
+    padding: 13px;
+  }
+  .div-i ul li i {
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+  }
+  .div-i {
+    text-align: right;
+    margin-right: 41px;
+  }
+  .div-i {
+    width: 37%;
+    max-width: 100%;
+    text-align: right;
+    float: right;
+    margin-right: 41px;
+  }
+  .div-f {
+    width: 54%;
+    max-width: 100%;
+    text-align: left;
+    float: left;
+  }
+  .hadder .menu {
+    width: 88%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+}
+@media (max-width: 530px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    padding: 5px 8px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .hadder .menu ul li {
+    border-left: none;
+    border-right: none;
+  }
+  .hadder .menu ul li:last-child {
+    border-right: none;
+  }
+  .hadder .menu {
+    width: 86%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+  .hadder .menu ul {
+    text-align: right;
+  }
+}
+@media (max-width: 622px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    padding: 5px 14px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .hadder .menu ul {
+    text-align: right;
+  }
+  .hadder .menu {
+    width: 89%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+  .div-1 img {
+    max-width: 100%;
+    width: 260px;
+    height: 136px;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 50px;
+  }
+  .div-1 p .fristss {
+    display: none;
+  }
+  .conten-r {
+    width: 40%;
+    height: auto;
+    float: right;
+    text-align: center;
+    padding: 59px 0;
+  }
+  .conten-l {
+    width: 60%;
+    height: auto;
+    float: left;
+    padding: 50px 0;
+  }
+}
+@media (max-width: 796px) {
+  .div-1 img {
+    max-width: 100%;
+    width: 326px;
+    height: 159px;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 50px;
+  }
+  .div-1 p {
+    font-size: 17px;
+    padding: 10px 10px;
+    text-align: center;
+  }
+}
+@media (max-width: 740px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    padding: 4px 19px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .hadder .menu ul {
+    text-align: right;
+  }
+  .hadder .menu {
+    width: 89%;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    line-height: 72px;
+  }
+}
+@media (max-width: 696px) {
+  .div-f h1 {
+    color: white;
+    font-size: 16px;
+  }
+  .div-i {
+    width: 46%;
+    max-width: 100%;
+    text-align: right;
+    float: right;
+  }
+  .div-i ul li {
+    display: inline-block;
+    padding: 15px;
+  }
+}
+@media (max-width: 640px) {
+  .hadder .logo {
+    width: 9%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    padding: 4px 15px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+}
+@media (max-width: 632px) {
+  .div-1 p {
+    font-size: 17px;
+    padding: 10px 7px;
+    text-align: center;
+  }
+  .div-1 img {
+    max-width: 100%;
+    width: 300px;
+    height: 159px;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 0;
+  }
+  .conten-l {
+    width: 47%;
+    height: auto;
+    float: left;
+    padding: 50px 0;
+  }
+  .conten-r {
+    width: 42%;
+    height: auto;
+    float: right;
+    text-align: center;
+    padding: 50px 0;
+  }
+}
+@media (max-width: 620px) {
+  .div-f {
+    width: 41%;
+    max-width: 100%;
+    text-align: left;
+    float: left;
+  }
+  .div-i {
+    width: 51%;
+    max-width: 100%;
+    text-align: right;
+    float: right;
+  }
+  .div-i ul li {
+    display: inline-block;
+    padding: 10px;
+  }
+  .div-i ul li i {
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  .div-f h1 {
+    color: white;
+    font-size: 13px;
+  }
+  .div-f {
+    width: 39%;
+    max-width: 100%;
+    text-align: left;
+    float: left;
+  }
+}
+@media (max-width: 544px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    padding: 4px 12px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+}
+
+@media (max-width: 524px) {
+  .div-a {
+    width: 85%;
+    height: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    float: left;
+    margin-left: 28px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .div-a:last-child {
+    width: 85%;
+    height: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    float: left;
+    margin-left: 28px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+}
+@media (max-width: 972px) {
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 33px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 10px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 872px)  {
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 10px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 616px) {
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 10px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+}
+@media (max-width: 524px) {
+  .div-i {
+    width: 45%;
+    max-width: 100%;
+    text-align: right;
+    float: right;
+  }
+  .div-f {
+    width: 44%;
+    max-width: 100%;
+    text-align: left;
+    float: left;
+  }
+  .hadder .logo img {
+    width: 72px;
+    height: auto;
+    max-width: 100%;
+    margin-top: 14px;
+  }
+}
+@media (max-width: 476px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 13px;
+    color: white;
+    padding: 4px 8px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    display: block;
+    padding: 14px 4px;
+    cursor: pointer;
+    width: 206px;
+    margin: auto;
+    border-radius: 50px;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 17px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+    padding: 13px 10px;
+    margin-top: 29px;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  .div-f {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    float: left;
+  }
+  .div-f h1 {
+    color: white;
+    font-size: 14px;
+  }
+  .div-i {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    margin-right: 0;
+  }
+  .div-i ul li {
+    display: inline-block;
+    padding: 0 14px;
+    padding-bottom: 15px;
+  }
+  .div-1 p {
+    font-size: 14px;
+    padding: 10px 0px;
+    text-align: left;
+    margin-left: 20px;
+  }
+  .div-1 img {
+    max-width: 100%;
+    width: 207px;
+    height: 104px;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 0;
+  }
+  .div-1 .ora{
+    display: none;
+  }
+  .conten-r {
+    width: 42%;
+    height: auto;
+    float: right;
+    text-align: center;
+    padding: 40px 0;
+  }
+  .conten-r ul li:nth-child(5) {
+   display: none;
+  }
+  .service {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+  }
+  .banner {
+    background-image: url(https://i.ibb.co/wgVP6Bf/hotel-cover.jpg);
+    background-repeat: no-repeat;
+    background-position: left right;
+    background-size: cover;
+    padding: 81px 0;
+    text-align: center;
+  }
+}
+@media (max-width: 388px) {
+  .hadder .menu ul li a {
+    text-decoration: none;
+    font-size: 11px;
+    color: white;
+    padding: 4px 6px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+  .hadder .logo {
+    width: 11%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+  }
+  .banner h3 {
+    background-color: rgb(25, 214, 173);
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    display: block;
+    padding: 10px 4px;
+    cursor: pointer;
+    width: 193px;
+    margin: auto;
+    border-radius: 50px;
+  }
+  .banner h1 {
+    background-color: rgb(230, 22, 202);
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    max-width: 500px;
+    margin: auto;
+    padding: 9px 0px;
+    margin-top: 19px;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  .div-a i {
+    color: white;
+    font-size: 20px;
+    background-color: rgb(82, 129, 218);
+    border-radius: 25px 0 25px 0;
+    padding: 21px;
+    margin-top: 19px;
+    cursor: pointer;
+  }
+  .div-a h1 {
+    color: black;
+    font-size: 23px;
+    padding: 9px 0;
+    font-weight: 600;
+  }
+  .div-a p {
+    font-size: 18px;
+    padding: 3px 15px;
+    font-weight: 400;
+    padding-bottom: 30px;
+    color: #777;
+  }
+  .div-a {
+    width: 81%;
+    height: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    float: left;
+    margin-left: 28px;
+    text-align: center;
+    margin-bottom: 17px;
+  }
+  .conten-r {
+    width: 42%;
+    height: auto;
+    float: right;
+    text-align: center;
+    padding: 0;
+  }
+  .conten-l {
+    width: 47%;
+    height: auto;
+    float: left;
+    padding: 0;
+  }
+  .conten-r ul li .not {
+ display: none;
+  }
+  .conten-r h1 {
+    color: black;
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+  }
+  .div-a p span{
+    display: none;
+  }
+  .about p {
+    font-size: 16px;
+    padding: 8px 0;
+  }
+  .about p .quick {
+    display: none;
+  }
+  .div-1 img {
+    max-width: 100%;
+    width: 207px;
+    height: 85px;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 0;
+  }
+}
